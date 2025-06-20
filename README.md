@@ -1,0 +1,2 @@
+# EV-Static
+static site
